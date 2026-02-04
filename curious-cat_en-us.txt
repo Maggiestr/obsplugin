@@ -1,0 +1,6 @@
+CuriousCat="Curious Cat"
+CatImage="Cat Image (PNG)"
+BaseSpeed="Base Movement Speed"
+AvoidanceRadius="Mouse Avoidance Radius"
+ExamineMinDuration="Min Examine Duration (sec)"
+ExamineMaxDuration="Max Examine Duration (sec)"
